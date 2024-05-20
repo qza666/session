@@ -1,4 +1,4 @@
-# SoruxNode面板适配脚本
+# SoruxNode面板一键更新session
 
 本项目提供了适用于 SoruxNode 面板的单节点和多节点批量更新脚本。如果需要适配其他面板，请根据需要自行修改路径。
 
